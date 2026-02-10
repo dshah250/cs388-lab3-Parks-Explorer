@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">National Parks</string>
+    <string name="park_image_description">National Park Image</string>
 </resources>
